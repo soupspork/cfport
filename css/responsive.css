@@ -1,0 +1,102 @@
+@media screen and (max-width: 568px)  {
+
+nav, .header-homepage {
+	
+	display: none;
+} 
+
+
+.sen {
+	font-family: 'Dosis', sans-serif;
+	font-size: 16px;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 0px;
+}
+.header-contents p {
+	font-family: 'Nixie One', cursive;
+	color: #f7f9fa;
+	font-size: 20px;
+}
+
+.header-contents p {
+	display: none;
+}
+
+
+
+#achievements {
+width: 100%;
+margin-top: 20px;
+
+}
+
+
+#achievements .sen {
+padding-top: 50px;
+padding-bottom: 20x;
+}
+
+#achievements #h1achievements {
+font-size: 35px;
+
+}
+#cfgoals p {
+width: 100%;
+padding-bottom: 2px;
+
+}
+#achievements h1 {
+	font-size: 51px;
+}
+}
+
+@media screen and (max-width: 768px)  {
+nav {
+	
+	display: none;
+} 
+
+.sen {
+	font-family: 'Dosis', sans-serif;
+	font-size: 18px;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 0px;
+}
+
+
+#about p {
+	text-align: center;
+	font-family: 'Dosis', sans-serif;
+	margin: auto;
+	width: 100%;
+	word-wrap: normal;
+	font-size: 18px;
+}
+
+#education ul {
+	color: #323232;
+	font-size: 18px;
+	width:  80%;
+	word-break: normal;
+}
+
+#achievements {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#achievements p {
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+#cfgoals p {
+	width: 80%;
+
+}
+
+
